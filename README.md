@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Indhu V
+---
 I am an Electronics and Communication Engineering (ECE) student with a strong interest in VLSI Design & Verification, Physical Design, and Digital System Design.  
 I am passionate about learning RTL design, Static Timing Analysis (STA), and backend implementation flow.
 ---
 ## 🚀 I’m Currently Working On
-- 📘 Learning RTL to GDSII Flow
+- 📘 Learning RTL to GDSII Flow 
 - ⏱️ Practicing Static Timing Analysis (STA)
 - 🔧 Building small Verilog design projects
 - 🎯 Preparing for GATE 2027
