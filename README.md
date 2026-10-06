@@ -7,7 +7,6 @@ I am passionate about learning RTL design, Static Timing Analysis (STA), and bac
 - 📘 Learning RTL to GDSII Flow 
 - ⏱️ Practicing Static Timing Analysis (STA)
 - 🔧 Building small Verilog design projects
-- 🎯 Preparing for GATE 2027
 - 🧠 Improving problem-solving and core VLSI concepts
 
 ## 🛠️ Tools & Technologies
